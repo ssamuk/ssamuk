@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/ssamuk/ssamuk/raw/ssamuk/images/fan-1.gif" alt="Fan" align="center">
+<img src="https://raw.githubusercontent.com/ssamuk/ssamuk/main/images/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/ssamuk/ssamuk/raw/ssamuk/images/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://raw.githubusercontent.com/ssamuk/ssamuk/main/images/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://samukaijansinkko.fi">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+<img src="https://raw.githubusercontent.com/ssamuk/ssamuk/main/images/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
